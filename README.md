@@ -9,7 +9,8 @@ My name is Jacob Arrington! Welcome to my Github Page:
 - ⚡ Fun fact: Still waiting on es6 
 
 
-
+##Github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple&show_icons=true)
 
 ## Languages and Tools
 
