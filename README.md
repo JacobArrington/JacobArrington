@@ -8,9 +8,7 @@ My name is Jacob Arrington! Welcome to my Github Page:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Still waiting on es6 
 
-## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacobArrington&show_icons=true&theme=dark)
 
 
 ## Languages and Tools
