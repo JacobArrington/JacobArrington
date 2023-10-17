@@ -10,7 +10,8 @@ My name is Jacob Arrington! Welcome to my Github Page:
 
 
 ##Github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight_purple&show_icons=true)
+
 
 ## Languages and Tools
 
